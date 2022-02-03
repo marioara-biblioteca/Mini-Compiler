@@ -1,0 +1,7 @@
+C:\Users\Valeca\Desktop\Anul 3\Sem I\Limbaje Formale\Proiect\LFT\bin\Debug\LFT.exe.config
+C:\Users\Valeca\Desktop\Anul 3\Sem I\Limbaje Formale\Proiect\LFT\bin\Debug\LFT.exe
+C:\Users\Valeca\Desktop\Anul 3\Sem I\Limbaje Formale\Proiect\LFT\bin\Debug\LFT.pdb
+C:\Users\Valeca\Desktop\Anul 3\Sem I\Limbaje Formale\Proiect\LFT\obj\Debug\LFT.csprojAssemblyReference.cache
+C:\Users\Valeca\Desktop\Anul 3\Sem I\Limbaje Formale\Proiect\LFT\obj\Debug\LFT.csproj.CoreCompileInputs.cache
+C:\Users\Valeca\Desktop\Anul 3\Sem I\Limbaje Formale\Proiect\LFT\obj\Debug\LFT.exe
+C:\Users\Valeca\Desktop\Anul 3\Sem I\Limbaje Formale\Proiect\LFT\obj\Debug\LFT.pdb
